@@ -1,5 +1,5 @@
 # my-chatbox
-Wanted to make my own chatgpt for fun. 
+Wanted to make my own chatbot for fun. 
 
 AI Chatbox Home Lab
 
